@@ -57,10 +57,13 @@
       subMaxLevel: 3,
       auto2top: true,
       autoHeader: true,
+      maxLevel: 3,
+      loadShadows: false,
       search: {
         maxDepth: 3,
         placeholder: 'Search...',
         noData: 'No results found.',
+        dataStorage: 'session'  // Use sessionStorage instead of localStorage
       },
       pagination: {
         previousText: '← Previous',
@@ -76,7 +79,6 @@
       markdown: {
         renderer: {
           link: function(href, title, text) {
-            // External links open in new tab
             if (href.startsWith('http')) {
               return '<a href="' + href + '" target="_blank" rel="noopener">' + text + '</a>';
             }
