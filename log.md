@@ -18,8 +18,11 @@
 - 摘要上传回 Notion 总看板待审查
 - 暂停：等待用户反馈前 3 篇质量再继续
 
-## [2026-04-21] ingest | Subagent 直接写完整 wiki 页面 (6篇)
-- Subagent 直接写完整 wiki 页面，跳过中转摘要
-- 第2批 3 篇：context-management, langgraph-react, agent-interview
-- 同步完整摘要到 Notion 总看板待审查
-- Wiki 现在共 6 个 concept 页面
+## [2026-04-21] ingest | Claude Code best practices (Notion ID: 34267b21-8207-8192-a0d4-cff1c99ff3d2)
+- Created 2 entity pages:
+  - entities/subagent.md — Subagent 机制
+  - entities/claude-md.md — CLAUDE.md 配置文件
+- Created 1 concept page:
+  - concepts/agentic-coding.md — Agentic Coding 核心概念
+- Updated index.md with new entries
+- Total wiki pages: 29

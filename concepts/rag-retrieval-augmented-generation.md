@@ -56,7 +56,7 @@ RAG（Retrieval-Augmented Generation）将外部知识检索与 LLM 生成结合
 
 ## 相关概念
 
-- [[HyDE]] — RAG 检索环节的优化策略
-- [[Embedding]] — 向量化的基础
-- [[Memory]] — RAG 上下文管理的组成部分
-- [[Hybrid-Search]] — 结合向量与关键词检索
+- [[hyde-hypothetical-document-embedding]] — RAG 检索环节的优化策略
+- [[embedding]] — 向量化的基础
+- [[memory (待创建)]] — RAG 上下文管理的组成部分
+- [[hybrid-search (待创建)]] — 结合向量与关键词检索

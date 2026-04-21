@@ -218,5 +218,5 @@ def get_cached_preference(user_id: str, key: str):
 
 - [[agent-architecture-design]] — Agent 架构设计的核心概念
 - [[rag-retrieval-augmented-generation]] — 与长期记忆检索机制高度相关的技术
-- [[Memory]] — 记忆系统的整体框架（待创建）
-- [[Context-Window]] — 上下文窗口管理与优化（待创建）
+- [[memory (待创建)]] — 记忆系统的整体框架（待创建）
+- [[context-window (待创建)]] — 上下文窗口管理与优化（待创建）
