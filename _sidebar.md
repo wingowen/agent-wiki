@@ -3,64 +3,64 @@
 * [Wiki Log](log)
 ---
 ## Entities
-* [[entities/agent-hook]]
-* [[entities/claude-research|Claude Research]]
-* [[entities/claude-35-sonnet|Claude 3.5 Sonnet]]
-* [[entities/claude-agent-sdk|Claude Agent SDK]]
-* [[entities/claude-code|Claude Code]]
-* [[entities/claude-code-on-the-web|Claude Code on the Web]]
-* [[entities/claude-code-sandboxing|Claude Code Sandboxing]]
-* [[entities/claude-haiku|Claude Haiku]]
-* [[entities/claude-md|CLAUDE.md]]
-* [[entities/clean-state|Clean State]]
-* [[entities/command-router]]
-* [[entities/consolidator|Consolidator]]
-* [[entities/contextual-retrieval|Contextual Retrieval]]
-* [[entities/desktop-extensions|Desktop Extensions]]
-* [[entities/dream|Dream]]
-* [[entities/dual-agent-architecture|Dual Agent Architecture]]
-* [[entities/ken-aizawa|Ken Aizawa]]
-* [[entities/mcpb-format|MCPB Format]]
-* [[entities/model-context-protocol|Model Context Protocol (MCP)]]
-* [[entities/openclaw|OpenClaw]]
-* [[entities/programmatic-tool-calling|Programmatic Tool Calling]]
-* [[entities/session-manager|SessionManager]]
-* [[entities/subagent|Subagent]]
-* [[entities/tau-bench|τ-Bench]]
-* [[entities/think-tool|Think 工具]]
-* [[entities/tool-search-tool|Tool Search Tool]]
-* [[entities/web-search-tool|web_search]]
+* [agent-hook](entities/agent-hook)
+* [Claude Research](entities/claude-research)
+* [Claude 3.5 Sonnet](entities/claude-35-sonnet)
+* [Claude Agent SDK](entities/claude-agent-sdk)
+* [Claude Code](entities/claude-code)
+* [Claude Code on the Web](entities/claude-code-on-the-web)
+* [Claude Code Sandboxing](entities/claude-code-sandboxing)
+* [Claude Haiku](entities/claude-haiku)
+* [CLAUDE.md](entities/claude-md)
+* [Clean State](entities/clean-state)
+* [command-router](entities/command-router)
+* [Consolidator](entities/consolidator)
+* [Contextual Retrieval](entities/contextual-retrieval)
+* [Desktop Extensions](entities/desktop-extensions)
+* [Dream](entities/dream)
+* [Dual Agent Architecture](entities/dual-agent-architecture)
+* [Ken Aizawa](entities/ken-aizawa)
+* [MCPB Format](entities/mcpb-format)
+* [Model Context Protocol (MCP)](entities/model-context-protocol)
+* [OpenClaw](entities/openclaw)
+* [Programmatic Tool Calling](entities/programmatic-tool-calling)
+* [SessionManager](entities/session-manager)
+* [Subagent](entities/subagent)
+* [τ-Bench](entities/tau-bench)
+* [Think 工具](entities/think-tool)
+* [Tool Search Tool](entities/tool-search-tool)
+* [web_search](entities/web-search-tool)
 ---
 ## Concepts
-* [[concepts/advanced-tool-use|高级工具使用]]
-* [[concepts/agent-architecture-design]]
-* [[concepts/agent-framework-design-principles]]
-* [[concepts/agent-interview-qa-overview]]
-* [[concepts/agent-loop|Agent Loop]]
-* [[concepts/agent-sandboxing|Agent 沙箱化]]
-* [[concepts/agent-scaffolding-design]]
-* [[concepts/agent-tool-design|Agent 工具设计原则]]
-* [[concepts/agentic-coding|Agentic Coding]]
-* [[concepts/bm25|BM25]]
-* [[concepts/code-execution-with-mcp|通过 MCP 实现代码执行]]
-* [[concepts/context-engineering]]
-* [[concepts/context-management-short-long-term-memory]]
-* [[concepts/contextual-embedding|Contextual Embedding]]
-* [[concepts/dual-layer-memory-system|双层记忆系统与记忆流动管理]]
-* [[concepts/embedding|Embedding]]
-* [[concepts/hyde-hypothetical-document-embedding]]
-* [[concepts/langgraph-core-principles-react]]
-* [[concepts/long-running-agent-harness-principles]]
-* [[concepts/mcp-server-packaging|MCP Server Packaging]]
-* [[concepts/multi-agent-system]]
-* [[concepts/progressive-disclosure|Progressive Disclosure（渐进式披露）]]
-* [[concepts/prompt-engineering]]
-* [[concepts/prompt-injection|提示词注入]]
-* [[concepts/rag-retrieval-augmented-generation]]
-* [[concepts/reflective-reasoning-tool|反思性推理工具]]
-* [[concepts/session-context-skill-selection]]
-* [[concepts/slash-command-hook-design]]
-* [[concepts/skills-agent-capability-reuse|Skills（Agent 技能复用模式）]]
-* [[concepts/swe-bench-verified|SWE-bench Verified]]
-* [[concepts/tool-use|Tool Use]]
-* [[concepts/top-p-sampling|Top-p Sampling]]
+* [高级工具使用](concepts/advanced-tool-use)
+* [agent-architecture-design](concepts/agent-architecture-design)
+* [agent-framework-design-principles](concepts/agent-framework-design-principles)
+* [agent-interview-qa-overview](concepts/agent-interview-qa-overview)
+* [Agent Loop](concepts/agent-loop)
+* [Agent 沙箱化](concepts/agent-sandboxing)
+* [agent-scaffolding-design](concepts/agent-scaffolding-design)
+* [Agent 工具设计原则](concepts/agent-tool-design)
+* [Agentic Coding](concepts/agentic-coding)
+* [BM25](concepts/bm25)
+* [通过 MCP 实现代码执行](concepts/code-execution-with-mcp)
+* [context-engineering](concepts/context-engineering)
+* [context-management-short-long-term-memory](concepts/context-management-short-long-term-memory)
+* [Contextual Embedding](concepts/contextual-embedding)
+* [双层记忆系统与记忆流动管理](concepts/dual-layer-memory-system)
+* [Embedding](concepts/embedding)
+* [hyde-hypothetical-document-embedding](concepts/hyde-hypothetical-document-embedding)
+* [langgraph-core-principles-react](concepts/langgraph-core-principles-react)
+* [long-running-agent-harness-principles](concepts/long-running-agent-harness-principles)
+* [MCP Server Packaging](concepts/mcp-server-packaging)
+* [multi-agent-system](concepts/multi-agent-system)
+* [Progressive Disclosure（渐进式披露）](concepts/progressive-disclosure)
+* [prompt-engineering](concepts/prompt-engineering)
+* [提示词注入](concepts/prompt-injection)
+* [rag-retrieval-augmented-generation](concepts/rag-retrieval-augmented-generation)
+* [反思性推理工具](concepts/reflective-reasoning-tool)
+* [session-context-skill-selection](concepts/session-context-skill-selection)
+* [slash-command-hook-design](concepts/slash-command-hook-design)
+* [Skills（Agent 技能复用模式）](concepts/skills-agent-capability-reuse)
+* [SWE-bench Verified](concepts/swe-bench-verified)
+* [Tool Use](concepts/tool-use)
+* [Top-p Sampling](concepts/top-p-sampling)
