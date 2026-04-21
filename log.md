@@ -17,3 +17,9 @@
   - concepts/rag-retrieval-augmented-generation.md
 - 摘要上传回 Notion 总看板待审查
 - 暂停：等待用户反馈前 3 篇质量再继续
+
+## [2026-04-21] ingest | Subagent 直接写完整 wiki 页面 (6篇)
+- Subagent 直接写完整 wiki 页面，跳过中转摘要
+- 第2批 3 篇：context-management, langgraph-react, agent-interview
+- 同步完整摘要到 Notion 总看板待审查
+- Wiki 现在共 6 个 concept 页面
