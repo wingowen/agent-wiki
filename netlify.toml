@@ -1,0 +1,11 @@
+[build]
+  publish = "."
+  command = "echo 'Static site - docsify serves directly from index.html'"
+
+[build.environment]
+  NODE_VERSION = "18"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
